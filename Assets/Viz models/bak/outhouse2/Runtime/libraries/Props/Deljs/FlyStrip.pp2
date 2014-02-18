@@ -1,0 +1,1862 @@
+{
+
+version
+	{
+	number 4.01
+	}
+prop flyStrip
+	{
+	geomCustom 
+		{ 
+		numbVerts    171
+		numbTVerts    199
+		numbTSets     550
+		numbElems   148
+		numbSets    550
+		v -0.180892 0.604761 -0.103402
+		v -0.186898 0.606189 -0.108438
+		v -0.186566 0.606297 -0.108790
+		v -0.180561 0.604869 -0.103754
+		v -0.180780 0.616615 -0.100158
+		v -0.187223 0.618425 -0.104513
+		v -0.186934 0.618431 -0.104930
+		v -0.180489 0.616765 -0.100534
+		v -0.179392 0.625273 -0.097833
+		v -0.185934 0.628188 -0.101425
+		v -0.185560 0.628776 -0.101687
+		v -0.179276 0.624782 -0.098391
+		v -0.175876 0.636988 -0.095807
+		v -0.182677 0.639930 -0.098827
+		v -0.183056 0.637982 -0.099633
+		v -0.176512 0.634486 -0.096631
+		v -0.181579 0.642558 -0.099032
+		v -0.172395 0.646493 -0.095696
+		v -0.178663 0.651465 -0.098227
+		v -0.178315 0.651964 -0.098715
+		v -0.173910 0.641932 -0.096111
+		v -0.170742 0.650626 -0.096507
+		v -0.169822 0.653848 -0.096495
+		v -0.175135 0.662939 -0.099676
+		v -0.174953 0.663167 -0.100210
+		v -0.167785 0.659772 -0.098173
+		v -0.167135 0.662885 -0.098496
+		v -0.165204 0.674407 -0.102068
+		v -0.173185 0.674243 -0.102462
+		v -0.173177 0.673866 -0.102855
+		v -0.165320 0.672577 -0.101989
+		v -0.165455 0.687751 -0.106369
+		v -0.173222 0.685378 -0.105427
+		v -0.173254 0.685182 -0.105879
+		v -0.165407 0.686896 -0.106626
+		v -0.167712 0.700023 -0.109149
+		v -0.175043 0.696842 -0.107547
+		v -0.175230 0.697228 -0.108078
+		v -0.167648 0.699402 -0.109545
+		v -0.170147 0.709524 -0.109856
+		v -0.177403 0.706723 -0.107893
+		v -0.178178 0.709220 -0.108328
+		v -0.170795 0.711512 -0.110388
+		v -0.171334 0.714201 -0.109728
+		v -0.178747 0.712275 -0.107494
+		v -0.173004 0.721445 -0.108935
+		v -0.180116 0.718663 -0.106477
+		v -0.180345 0.718951 -0.106894
+		v -0.173607 0.723409 -0.109109
+		v -0.173828 0.726138 -0.108063
+		v -0.181266 0.726596 -0.104536
+		v -0.181482 0.726484 -0.105066
+		v -0.174766 0.735514 -0.105746
+		v -0.174962 0.735179 -0.106299
+		v -0.181710 0.735503 -0.101778
+		v -0.181939 0.736802 -0.101809
+		v -0.174049 0.746440 -0.102726
+		v -0.180874 0.744809 -0.098675
+		v -0.174292 0.746633 -0.103099
+		v -0.180504 0.748115 -0.098123
+		v -0.171608 0.757207 -0.100459
+		v -0.177230 0.758958 -0.095000
+		v -0.177192 0.760169 -0.095152
+		v -0.171841 0.757624 -0.100757
+		v -0.167781 0.769023 -0.099737
+		v -0.172541 0.771650 -0.093826
+		v -0.172689 0.772288 -0.094155
+		v -0.168255 0.768791 -0.100044
+		v -0.164109 0.780690 -0.101201
+		v -0.168291 0.783503 -0.094984
+		v -0.169352 0.781582 -0.095012
+		v -0.165230 0.778350 -0.101103
+		v -0.167977 0.786104 -0.095828
+		v -0.163845 0.783673 -0.102180
+		v -0.161772 0.792427 -0.104354
+		v -0.165428 0.795241 -0.097816
+		v -0.166256 0.793297 -0.097551
+		v -0.162621 0.789962 -0.103872
+		v -0.165559 0.797909 -0.098830
+		v -0.161942 0.797687 -0.106222
+		v -0.161455 0.802274 -0.107482
+		v -0.164607 0.806903 -0.101229
+		v -0.165062 0.807346 -0.101572
+		v -0.162170 0.806533 -0.108977
+		v -0.162082 0.809636 -0.109627
+		v -0.165762 0.818481 -0.103966
+		v -0.166241 0.818542 -0.104138
+		v -0.163617 0.815837 -0.111382
+		v -0.163887 0.819143 -0.111802
+		v -0.167326 0.832050 -0.112946
+		v -0.168213 0.830253 -0.105066
+		v -0.168527 0.829465 -0.105128
+		v -0.167348 0.830303 -0.113007
+		v -0.170797 0.845878 -0.111400
+		v -0.171162 0.844655 -0.103531
+		v -0.171304 0.845772 -0.111472
+		v -0.171652 0.844568 -0.103647
+		v -0.180879 0.604754 -0.103387
+		v -0.186907 0.606189 -0.108446
+		v -0.186578 0.606300 -0.108806
+		v -0.180551 0.604867 -0.103747
+		v -0.170867 0.845852 -0.111359
+		v -0.171073 0.844667 -0.103451
+		v -0.171561 0.844561 -0.103479
+		v -0.171357 0.845754 -0.111386
+		v -0.182655 0.583176 -0.105912
+		v -0.185455 0.611036 -0.105989
+		v -0.182846 0.583176 -0.098915
+		v -0.182846 0.583176 -0.098915
+		v -0.185646 0.611036 -0.098992
+		v -0.185646 0.611036 -0.098992
+		v -0.180167 0.583444 -0.099375
+		v -0.180167 0.583444 -0.099375
+		v -0.182967 0.611304 -0.099451
+		v -0.182967 0.611304 -0.099451
+		v -0.177867 0.583671 -0.100830
+		v -0.177867 0.583671 -0.100830
+		v -0.180667 0.611531 -0.100906
+		v -0.180667 0.611531 -0.100906
+		v -0.176296 0.583823 -0.103058
+		v -0.176296 0.583823 -0.103058
+		v -0.179096 0.611683 -0.103135
+		v -0.179096 0.611683 -0.103135
+		v -0.175692 0.583877 -0.105722
+		v -0.175692 0.583877 -0.105722
+		v -0.178492 0.611736 -0.105798
+		v -0.178492 0.611736 -0.105798
+		v -0.176149 0.583823 -0.108414
+		v -0.176149 0.583823 -0.108414
+		v -0.178949 0.611683 -0.108491
+		v -0.178949 0.611683 -0.108491
+		v -0.177596 0.583671 -0.110725
+		v -0.177596 0.583671 -0.110725
+		v -0.180396 0.611531 -0.110802
+		v -0.180396 0.611531 -0.110802
+		v -0.179813 0.583444 -0.112304
+		v -0.179813 0.583444 -0.112304
+		v -0.182613 0.611304 -0.112381
+		v -0.182613 0.611304 -0.112381
+		v -0.182463 0.583176 -0.112910
+		v -0.182463 0.583176 -0.112910
+		v -0.185263 0.611036 -0.112987
+		v -0.185263 0.611036 -0.112987
+		v -0.185142 0.582908 -0.112450
+		v -0.185142 0.582908 -0.112450
+		v -0.187942 0.610768 -0.112527
+		v -0.187942 0.610768 -0.112527
+		v -0.187442 0.582681 -0.110995
+		v -0.187442 0.582681 -0.110995
+		v -0.190242 0.610541 -0.111072
+		v -0.190242 0.610541 -0.111072
+		v -0.189013 0.582529 -0.108766
+		v -0.189013 0.582529 -0.108766
+		v -0.191813 0.610389 -0.108843
+		v -0.191813 0.610389 -0.108843
+		v -0.189617 0.582476 -0.106103
+		v -0.189617 0.582476 -0.106103
+		v -0.192417 0.610336 -0.106180
+		v -0.192417 0.610336 -0.106180
+		v -0.189160 0.582529 -0.103411
+		v -0.189160 0.582529 -0.103411
+		v -0.191960 0.610389 -0.103488
+		v -0.191960 0.610389 -0.103488
+		v -0.187713 0.582681 -0.101099
+		v -0.187713 0.582681 -0.101099
+		v -0.190513 0.610541 -0.101176
+		v -0.190513 0.610541 -0.101176
+		v -0.185496 0.582908 -0.099521
+		v -0.185496 0.582908 -0.099521
+		v -0.188296 0.610768 -0.099597
+		v -0.188296 0.610768 -0.099597
+		vt 0.072938 1.000000
+		vt 0.307766 1.000000
+		vt 0.300683 0.950046
+		vt 0.067930 0.950046
+		vt 0.568432 1.000000
+		vt 0.807656 1.000000
+		vt 0.806901 0.950046
+		vt 0.568097 0.950046
+		vt 0.306446 0.910491
+		vt 0.086738 0.912370
+		vt 0.589911 0.908134
+		vt 0.807434 0.915038
+		vt 1.000000 0.963888
+		vt 1.000000 0.918294
+		vt 0.287528 0.861601
+		vt 0.074748 0.862605
+		vt 0.566405 0.869606
+		vt 0.800361 0.873358
+		vt 1.000000 0.864359
+		vt 0.793056 0.841971
+		vt 0.564988 0.850037
+		vt 0.307470 0.812269
+		vt 0.069289 0.822787
+		vt 0.568216 0.809460
+		vt 1.000000 0.827414
+		vt 0.809593 0.805688
+		vt 1.000000 0.792596
+		vt 0.067247 0.792596
+		vt 0.302369 0.762292
+		vt 0.067360 0.755850
+		vt 0.566695 0.760421
+		vt 0.806109 0.768141
+		vt 1.000000 0.755850
+		vt 0.303299 0.712643
+		vt 0.069794 0.709722
+		vt 0.570448 0.713400
+		vt 0.806706 0.716686
+		vt 1.000000 0.711243
+		vt 0.306062 0.664030
+		vt 0.072448 0.656747
+		vt 0.571127 0.664032
+		vt 0.805855 0.659918
+		vt 0.308508 0.614749
+		vt 0.067555 0.607714
+		vt 0.575102 0.612472
+		vt 0.807350 0.610141
+		vt 1.000000 0.656747
+		vt 1.000000 0.607714
+		vt 0.306112 0.573067
+		vt 0.063244 0.569296
+		vt 0.569948 0.562410
+		vt 0.802509 0.561272
+		vt 1.000000 0.572263
+		vt 0.307866 0.550010
+		vt 0.069101 0.550010
+		vt 1.000000 0.550010
+		vt 0.298328 0.523695
+		vt 0.091659 0.520066
+		vt 0.570781 0.522517
+		vt 0.798820 0.512077
+		vt 1.000000 0.516576
+		vt 0.307069 0.491537
+		vt 0.067385 0.500006
+		vt 0.569709 0.492102
+		vt 1.000000 0.500006
+		vt 0.803516 0.462174
+		vt 0.567886 0.450626
+		vt 1.000000 0.459880
+		vt 0.068509 0.459880
+		vt 0.306824 0.455634
+		vt 0.307996 0.418181
+		vt 0.070987 0.412178
+		vt 0.804945 0.412288
+		vt 0.567115 0.405332
+		vt 1.000000 0.414598
+		vt 0.306031 0.361391
+		vt 0.069721 0.364636
+		vt 0.570736 0.356855
+		vt 0.805210 0.363729
+		vt 1.000000 0.364636
+		vt 0.305941 0.309801
+		vt 0.076309 0.312571
+		vt 0.566501 0.307401
+		vt 0.806812 0.314429
+		vt 1.000000 0.312571
+		vt 0.306077 0.260860
+		vt 0.088289 0.262352
+		vt 0.569786 0.268951
+		vt 0.807242 0.272799
+		vt 1.000000 0.267041
+		vt 0.572737 0.249984
+		vt 0.795965 0.249984
+		vt 0.303923 0.211656
+		vt 0.069404 0.213006
+		vt 0.809136 0.223426
+		vt 0.568083 0.219751
+		vt 1.000000 0.215719
+		vt 0.565914 0.199979
+		vt 0.808017 0.191546
+		vt 0.300973 0.162072
+		vt 0.070978 0.172746
+		vt 0.566081 0.159548
+		vt 1.000000 0.177473
+		vt 0.809113 0.155651
+		vt 1.000000 0.145090
+		vt 0.070966 0.143310
+		vt 0.304346 0.112287
+		vt 0.066630 0.105714
+		vt 0.567404 0.111235
+		vt 0.806864 0.118500
+		vt 1.000000 0.105714
+		vt 0.306403 0.061247
+		vt 0.067093 0.055291
+		vt 0.569204 0.063915
+		vt 0.806843 0.061868
+		vt 1.000000 0.055291
+		vt 0.306189 0.000431
+		vt 0.067747 0.000357
+		vt 0.566215 0.000705
+		vt 0.804678 0.000456
+		vt 1.000000 0.000456
+		vt 0.000000 1.000000
+		vt 0.000000 1.000000
+		vt 0.000000 1.000000
+		vt 0.000000 1.000000
+		vt 0.000000 1.000000
+		vt 0.000000 1.000000
+		vt 0.000000 1.000000
+		vt 0.000000 1.000000
+		vt 0.924844 0.688024
+		vt 1.000000 0.992987
+		vt 0.500000 0.500000
+		vt 0.000000 0.500000
+		vt 0.038060 0.691342
+		vt 0.000000 0.000000
+		vt 0.000000 1.000000
+		vt 0.062500 1.000000
+		vt 0.062500 0.000000
+		vt 1.000000 0.500000
+		vt 0.500000 0.500000
+		vt 0.961940 0.691342
+		vt 0.146447 0.853553
+		vt 0.125000 1.000000
+		vt 0.125000 0.000000
+		vt 0.853553 0.853553
+		vt 0.308658 0.961940
+		vt 0.187500 1.000000
+		vt 0.187500 0.000000
+		vt 0.691342 0.961940
+		vt 0.500000 1.000000
+		vt 0.250000 1.000000
+		vt 0.250000 0.000000
+		vt 0.500000 1.000000
+		vt 0.691342 0.961940
+		vt 0.312500 1.000000
+		vt 0.312500 0.000000
+		vt 0.308658 0.961940
+		vt 0.853553 0.853553
+		vt 0.375000 1.000000
+		vt 0.375000 0.000000
+		vt 0.146447 0.853553
+		vt 0.961940 0.691342
+		vt 0.437500 1.000000
+		vt 0.437500 0.000000
+		vt 0.038060 0.691342
+		vt 1.000000 0.500000
+		vt 0.500000 1.000000
+		vt 0.500000 0.000000
+		vt 0.000000 0.500000
+		vt 0.961940 0.308658
+		vt 0.562500 1.000000
+		vt 0.562500 0.000000
+		vt 0.038060 0.308658
+		vt 0.853553 0.146447
+		vt 0.625000 1.000000
+		vt 0.625000 0.000000
+		vt 0.146447 0.146447
+		vt 0.691342 0.038060
+		vt 0.687500 1.000000
+		vt 0.687500 0.000000
+		vt 0.308658 0.038060
+		vt 0.500000 0.000000
+		vt 0.750000 1.000000
+		vt 0.750000 0.000000
+		vt 0.500000 0.000000
+		vt 0.308658 0.038060
+		vt 0.812500 1.000000
+		vt 0.812500 0.000000
+		vt 0.691342 0.038060
+		vt 0.146447 0.146447
+		vt 0.875000 1.000000
+		vt 0.875000 0.000000
+		vt 0.853553 0.146447
+		vt 0.038060 0.308658
+		vt 0.937500 1.000000
+		vt 0.937500 0.000000
+		vt 0.961940 0.308658
+		vt 1.000000 1.000000
+		vt 1.000000 0.000000
+		usemtl flyPaper
+		s 0
+		g		flyStrip		strip
+		f 5/4 6/3 2/2 1/1
+		f 7/8 8/7 4/6 3/5
+		f 9/10 10/9 6/3 5/4
+		f 10/9 11/11 7/8 6/3
+		f 11/11 12/12 8/7 7/8
+		f 12/12 9/14 5/13 8/7
+		f 13/16 14/15 10/9 9/10
+		f 11/11 10/9 14/15 15/17
+		f 15/17 16/18 12/12 11/11
+		f 12/12 16/18 13/19 9/14
+		f 17/21 21/20 16/18 15/17
+		f 18/23 19/22 14/15 13/16
+		f 14/15 19/22 20/24 17/21
+		f 16/18 21/20 18/25 13/19
+		f 23/27 18/25 21/20 22/26
+		f 27/30 24/29 19/22 23/28
+		f 19/22 24/29 25/31 20/24
+		f 25/31 26/32 22/26 20/24
+		f 27/33 23/27 22/26 26/32
+		f 28/35 29/34 24/29 27/30
+		f 24/29 29/34 30/36 25/31
+		f 30/36 31/37 26/32 25/31
+		f 26/32 31/37 28/38 27/33
+		f 32/40 33/39 29/34 28/35
+		f 33/39 34/41 30/36 29/34
+		f 34/41 35/42 31/37 30/36
+		f 36/44 37/43 33/39 32/40
+		f 37/43 38/45 34/41 33/39
+		f 38/45 39/46 35/42 34/41
+		f 35/42 39/46 36/48 32/47
+		f 40/50 41/49 37/43 36/44
+		f 37/43 41/49 42/51 38/45
+		f 42/51 43/52 39/46 38/45
+		f 36/48 39/46 43/52 40/53
+		f 44/55 45/54 41/49 40/50
+		f 44/56 40/53 43/52
+		f 46/58 47/57 45/54 44/55
+		f 47/57 48/59 42/51 45/54
+		f 48/59 49/60 43/52 42/51
+		f 44/56 43/52 49/60 46/61
+		f 50/63 51/62 47/57 46/58
+		f 51/62 52/64 48/59 47/57
+		f 50/65 46/61 49/60
+		f 56/67 54/66 49/60 52/64
+		f 49/60 54/66 53/68 50/65
+		f 55/70 51/62 50/63 53/69
+		f 55/70 56/67 52/64 51/62
+		f 57/72 58/71 55/70 53/69
+		f 60/74 59/73 54/66 56/67
+		f 54/66 59/73 57/75 53/68
+		f 60/74 56/67 55/70 58/71
+		f 61/77 62/76 58/71 57/72
+		f 58/71 62/76 63/78 60/74
+		f 63/78 64/79 59/73 60/74
+		f 64/79 61/80 57/75 59/73
+		f 65/82 66/81 62/76 61/77
+		f 62/76 66/81 67/83 63/78
+		f 67/83 68/84 64/79 63/78
+		f 68/84 65/85 61/80 64/79
+		f 69/87 70/86 66/81 65/82
+		f 67/83 66/81 70/86 71/88
+		f 71/88 72/89 68/84 67/83
+		f 68/84 72/89 69/90 65/85
+		f 73/91 71/88 70/86
+		f 73/91 74/92 72/89 71/88
+		f 75/94 76/93 70/86 69/87
+		f 77/96 78/95 74/92 73/91
+		f 78/95 75/97 69/90 74/92
+		f 79/98 77/96 76/93
+		f 79/98 80/99 78/95 77/96
+		f 81/101 82/100 76/93 75/94
+		f 76/93 82/100 83/102 79/98
+		f 81/103 75/97 78/95 80/99
+		f 85/105 81/103 80/99 84/104
+		f 89/108 86/107 82/100 85/106
+		f 82/100 86/107 87/109 83/102
+		f 87/109 88/110 84/104 83/102
+		f 89/111 85/105 84/104 88/110
+		f 90/113 91/112 86/107 89/108
+		f 91/112 92/114 87/109 86/107
+		f 92/114 93/115 88/110 87/109
+		f 88/110 93/115 90/116 89/111
+		f 94/118 95/117 91/112 90/113
+		f 95/117 97/119 92/114 91/112
+		f 97/119 96/120 93/115 92/114
+		f 93/115 96/120 94/121 90/116
+		f 98/125 99/124 100/123 101/122
+		f 105/129 104/128 103/127 102/126
+		f 31/37 35/42 32/47 28/130
+		f 73/91 70/86 76/93 77/96
+		f 6/3 7/8 3/5 2/2
+		f 8/7 5/13 1/131 4/6
+		f 20/24 22/26 21/20 17/21
+		f 23/28 19/22 18/23
+		f 45/54 42/51 41/49
+		f 52/64 49/60 48/59
+		f 83/102 84/104 80/99 79/98
+		f 85/106 82/100 81/101
+		f 14/15 17/21 15/17
+		f 72/89 74/92 69/90
+		usemtl cardboard
+		g		flyStrip		box
+		f 112/134 108/133 106/132
+		f 113/138 114/137 110/136 109/135
+		f 115/141 107/140 111/139
+		f 116/142 112/134 106/132
+		f 117/144 118/143 114/137 113/138
+		f 119/145 107/140 115/141
+		f 120/146 116/142 106/132
+		f 121/148 122/147 118/143 117/144
+		f 123/149 107/140 119/145
+		f 124/150 120/146 106/132
+		f 125/152 126/151 122/147 121/148
+		f 127/153 107/140 123/149
+		f 128/154 124/150 106/132
+		f 129/156 130/155 126/151 125/152
+		f 131/157 107/140 127/153
+		f 132/158 128/154 106/132
+		f 133/160 134/159 130/155 129/156
+		f 135/161 107/140 131/157
+		f 136/162 132/158 106/132
+		f 137/164 138/163 134/159 133/160
+		f 139/165 107/140 135/161
+		f 140/166 136/162 106/132
+		f 141/168 142/167 138/163 137/164
+		f 143/169 107/140 139/165
+		f 144/170 140/166 106/132
+		f 145/172 146/171 142/167 141/168
+		f 147/173 107/140 143/169
+		f 148/174 144/170 106/132
+		f 149/176 150/175 146/171 145/172
+		f 151/177 107/140 147/173
+		f 152/178 148/174 106/132
+		f 153/180 154/179 150/175 149/176
+		f 155/181 107/140 151/177
+		f 156/182 152/178 106/132
+		f 157/184 158/183 154/179 153/180
+		f 159/185 107/140 155/181
+		f 160/186 156/182 106/132
+		f 161/188 162/187 158/183 157/184
+		f 163/189 107/140 159/185
+		f 164/190 160/186 106/132
+		f 165/192 166/191 162/187 161/188
+		f 167/193 107/140 163/189
+		f 168/194 164/190 106/132
+		f 169/196 170/195 166/191 165/192
+		f 171/197 107/140 167/193
+		f 108/133 168/194 106/132
+		f 109/199 110/198 170/195 169/196
+		f 111/139 107/140 171/197
+		} 
+
+	}
+
+prop flyStrip
+	{
+	name    flyStrip_1
+	on
+	bend 1
+	dynamicsLock		1
+	hidden		0
+	addToMenu	1
+	castsShadow		1
+	includeInDepthCue		1
+	useZBuffer		1
+	parent UNIVERSE
+	creaseAngle 80
+	channels
+		{
+		groups
+			{
+			groupNode Transform
+				{
+				parmNode Scale
+				parmNode xScale
+				parmNode yScale
+				parmNode zScale
+				parmNode yRotate
+				parmNode xRotate
+				parmNode zRotate
+				parmNode xTran
+				parmNode yTran
+				parmNode zTran
+				}
+			}
+		xOffsetA OriginX
+			{
+			name originX
+			initValue -0.176936
+			hidden 1
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  1
+				k  0  0
+				}
+			interpStyleLocked 0
+			staticValue -0.176936
+			}
+		yOffsetA OriginY
+			{
+			name originY
+			initValue 0.714177
+			hidden 1
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  1
+				k  0  0
+				}
+			interpStyleLocked 0
+			staticValue 0.714177
+			}
+		zOffsetA OriginZ
+			{
+			name originZ
+			initValue -0.103416
+			hidden 1
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  1
+				k  0  0
+				}
+			interpStyleLocked 0
+			staticValue -0.103416
+			}
+		propagatingScale Scale
+			{
+			name scale
+			initValue 1
+			hidden 0
+			forceLimits 0
+			min 0.001
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  0
+				k  0  1
+				}
+			interpStyleLocked 0
+			}
+		propagatingScaleX xScale
+			{
+			name xScale
+			initValue 1
+			hidden 0
+			forceLimits 0
+			min 0.001
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  0
+				k  0  1.00003
+				}
+			interpStyleLocked 0
+			}
+		propagatingScaleY yScale
+			{
+			name yScale
+			initValue 1
+			hidden 0
+			forceLimits 0
+			min 0.001
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  0
+				k  0  1
+				}
+			interpStyleLocked 0
+			}
+		propagatingScaleZ zScale
+			{
+			name zScale
+			initValue 1
+			hidden 0
+			forceLimits 0
+			min 0.001
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  0
+				k  0  1.00003
+				}
+			interpStyleLocked 0
+			}
+		rotateY yRotate
+			{
+			name yrot
+			initValue 0
+			hidden 0
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 1
+			keys
+				{
+				static  0
+				k  0  -10.0098
+				}
+			interpStyleLocked 0
+			}
+		rotateX xRotate
+			{
+			name xrot
+			initValue 0
+			hidden 0
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 1
+			keys
+				{
+				static  0
+				k  0  0
+				}
+			interpStyleLocked 0
+			}
+		rotateZ zRotate
+			{
+			name zrot
+			initValue 0
+			hidden 0
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 1
+			keys
+				{
+				static  0
+				k  0  0
+				}
+			interpStyleLocked 0
+			}
+		translateX xTran
+			{
+			name xtran
+			initValue 0
+			hidden 0
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 0.001
+			keys
+				{
+				static  0
+				k  0  1.49012e-008
+				}
+			interpStyleLocked 0
+			}
+		translateY yTran
+			{
+			name ytran
+			initValue 0
+			hidden 0
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 0.001
+			keys
+				{
+				static  0
+				k  0  0
+				}
+			interpStyleLocked 0
+			}
+		translateZ zTran
+			{
+			name ztran
+			initValue 0
+			hidden 0
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 0.001
+			keys
+				{
+				static  0
+				k  0  7.45058e-009
+				}
+			interpStyleLocked 0
+			}
+		xOffsetB xOffB
+			{
+			name xOffB
+			initValue 0.176936
+			hidden 1
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  1
+				k  0  0
+				}
+			interpStyleLocked 0
+			staticValue 0.176936
+			}
+		yOffsetB yOffB
+			{
+			name yOffB
+			initValue -0.714177
+			hidden 1
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  1
+				k  0  0
+				}
+			interpStyleLocked 0
+			staticValue -0.714177
+			}
+		zOffsetB zOffB
+			{
+			name zOffB
+			initValue 0.103416
+			hidden 1
+			forceLimits 0
+			min -100000
+			max 100000
+			trackingScale 0.004
+			keys
+				{
+				static  1
+				k  0  0
+				}
+			interpStyleLocked 0
+			staticValue 0.103416
+			}
+		}
+	endPoint -0.176936 0.845878 -0.103416
+	origin -0.176936 0.714177 -0.103416
+	orientation 0 0 0
+	displayOrigin		0
+	displayMode USEPARENT
+	customMaterial	1
+	material Preview
+		{
+		KdColor 0.663503 0.10242 0.451491 1 
+		KaColor 0 0 0 1 
+		KsColor 0.0113285 0.166912 0.113968 1 
+		TextureColor 1 1 1 1 
+		NsExponent 50 
+		tMin 0 
+		tMax 0 
+		tExpo 0.6 
+		bumpStrength 1 
+		ksIgnoreTexture 0 
+		reflectThruLights 1 
+		reflectThruKd 0 
+		textureMap NO_MAP
+		bumpMap NO_MAP
+		reflectionMap NO_MAP
+		transparencyMap NO_MAP
+		ReflectionColor 1 1 1 1 
+		reflectionStrength 1 
+		shaderTree
+			{
+			node "poser" "PoserSurface"
+				{
+				name "PoserSurface"
+				pos 10 10
+				showPreview 1
+				nodeInput "Diffuse_Color"
+					{
+					name "Diffuse_Color"
+					value 0.663503 0.10242 0.451491
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Diffuse_Value"
+					{
+					name "Diffuse_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Highlight_Color"
+					{
+					name "Specular_Color"
+					value 0.0113285 0.166912 0.113968
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Highlight_Value"
+					{
+					name "Specular_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Roughness"
+					{
+					name "Highlight_Size"
+					value 0.02 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Ambient_Color"
+					{
+					name "Ambient_Color"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Ambient_Value"
+					{
+					name "Ambient_Value"
+					value 0 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Transparency_Max"
+					{
+					name "Transparency"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Transparency_Min"
+					{
+					name "Transparency_Edge"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Transparency_Falloff"
+					{
+					name "Transparency_Falloff"
+					value 0.6 0 100
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Translucence_Color"
+					{
+					name "Translucence_Color"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Translucence_Value"
+					{
+					name "Translucence_Value"
+					value 0 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Reflection_Color"
+					{
+					name "Reflection_Color"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Reflection_Value"
+					{
+					name "Reflection_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Refraction_Color"
+					{
+					name "Refraction_Color"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Refraction_Value"
+					{
+					name "Refraction_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Bump"
+					{
+					name "Bump"
+					value 1 -10 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Displacement"
+					{
+					name "Displacement"
+					value 1 -10 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "AlternateDiffuse"
+					{
+					name "Alternate_Diffuse"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "AlternateSpecular"
+					{
+					name "Alternate_Specular"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ReflectionLiteMult"
+					{
+					name "Reflection_Lite_Mult"
+					value 1 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ReflectionKdMult"
+					{
+					name "Reflection_Kd_Mult"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Gradient_Bump"
+					{
+					name "Gradient_Bump"
+					value 1 -1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ShadowCatchOnly"
+					{
+					name "Shadow_Catch_Only"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ToonID"
+					{
+					name "ToonID"
+					value 84 0 32768
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Normals_Forward"
+					{
+					name "Normals_Forward"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				}
+			}
+		}
+	material flyPaper
+		{
+		KdColor 0.745098 0.572549 0.203922 1 
+		KaColor 0 0 0 1 
+		KsColor 0 0 0 1 
+		TextureColor 1 1 1 1 
+		NsExponent 50.7813 
+		tMin 0 
+		tMax 0.375 
+		tExpo 0.6 
+		bumpStrength 1 
+		ksIgnoreTexture 0 
+		reflectThruLights 1 
+		reflectThruKd 0 
+		textureMap ":Runtime:textures:Deljs:flypaper.jpg"
+ 				0 0 
+		bumpMap NO_MAP
+		reflectionMap NO_MAP
+		transparencyMap NO_MAP
+		ReflectionColor 1 1 1 1 
+		reflectionStrength 1 
+		shaderTree
+			{
+			node "poser" "PoserSurface"
+				{
+				name "PoserSurface"
+				pos 10 10
+				showPreview 1
+				nodeInput "Diffuse_Color"
+					{
+					name "Diffuse_Color"
+					value 0.745098 0.572549 0.203922
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node "Image_Map"
+					file "" 
+					}
+				nodeInput "Diffuse_Value"
+					{
+					name "Diffuse_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Highlight_Color"
+					{
+					name "Specular_Color"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Highlight_Value"
+					{
+					name "Specular_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Roughness"
+					{
+					name "Highlight_Size"
+					value 0.0196923 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Ambient_Color"
+					{
+					name "Ambient_Color"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Ambient_Value"
+					{
+					name "Ambient_Value"
+					value 0 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Transparency_Max"
+					{
+					name "Transparency"
+					value 0.375 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Transparency_Min"
+					{
+					name "Transparency_Edge"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Transparency_Falloff"
+					{
+					name "Transparency_Falloff"
+					value 0.6 0 100
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Translucence_Color"
+					{
+					name "Translucence_Color"
+					value 0.796079 0.682353 0.227451
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Translucence_Value"
+					{
+					name "Translucence_Value"
+					value 0 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Reflection_Color"
+					{
+					name "Reflection_Color"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Reflection_Value"
+					{
+					name "Reflection_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Refraction_Color"
+					{
+					name "Refraction_Color"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Refraction_Value"
+					{
+					name "Refraction_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Bump"
+					{
+					name "Bump"
+					value 1 -10 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Displacement"
+					{
+					name "Displacement"
+					value 1 -10 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "AlternateDiffuse"
+					{
+					name "Alternate_Diffuse"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "AlternateSpecular"
+					{
+					name "Alternate_Specular"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ReflectionLiteMult"
+					{
+					name "Reflection_Lite_Mult"
+					value 1 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ReflectionKdMult"
+					{
+					name "Reflection_Kd_Mult"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Gradient_Bump"
+					{
+					name "Gradient_Bump"
+					value 1 -1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ShadowCatchOnly"
+					{
+					name "Shadow_Catch_Only"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ToonID"
+					{
+					name "ToonID"
+					value 82 0 32768
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Normals_Forward"
+					{
+					name "Normals_Forward"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				}
+			node "image_map" "Image_Map"
+				{
+				name "Image_Map"
+				pos 396 62
+				showPreview 1
+				nodeInput "Image_Source"
+					{
+					name "Image_Source"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file ":Runtime:textures:Deljs:flypaper.jpg" 
+					}
+				nodeInput "Auto_Fit"
+					{
+					name "Auto_Fit"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "U_Scale"
+					{
+					name "U_Scale"
+					value 0.5 -1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "V_Scale"
+					{
+					name "V_Scale"
+					value 0.5 -1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "U_Offset"
+					{
+					name "U_Offset"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "V_Offset"
+					{
+					name "V_Offset"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Texture_Coords"
+					{
+					name "Texture_Coords"
+					value 1 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Image_Mapped"
+					{
+					name "Image_Mapped"
+					value 4 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Background"
+					{
+					name "Background"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Global_Coordinates"
+					{
+					name "Global_Coordinates"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Mirror_U"
+					{
+					name "Mirror_U"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Mirror_V"
+					{
+					name "Mirror_V"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Texture_Strength"
+					{
+					name "Texture_Strength"
+					value 1 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				}
+			}
+		}
+	material cardboard
+		{
+		KdColor 0.32549 0.376471 0.223529 1 
+		KaColor 0 0 0 1 
+		KsColor 0 0 0 1 
+		TextureColor 1 1 1 1 
+		NsExponent 50.7813 
+		tMin 0 
+		tMax 0 
+		tExpo 0.6 
+		bumpStrength 1 
+		ksIgnoreTexture 0 
+		reflectThruLights 1 
+		reflectThruKd 0 
+		textureMap NO_MAP
+		bumpMap NO_MAP
+		reflectionMap NO_MAP
+		transparencyMap NO_MAP
+		ReflectionColor 1 1 1 1 
+		reflectionStrength 1 
+		shaderTree
+			{
+			node "poser" "PoserSurface"
+				{
+				name "PoserSurface"
+				pos 10 10
+				showPreview 1
+				nodeInput "Diffuse_Color"
+					{
+					name "Diffuse_Color"
+					value 0.32549 0.376471 0.223529
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Diffuse_Value"
+					{
+					name "Diffuse_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Highlight_Color"
+					{
+					name "Specular_Color"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Highlight_Value"
+					{
+					name "Specular_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Roughness"
+					{
+					name "Highlight_Size"
+					value 0.0196923 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Ambient_Color"
+					{
+					name "Ambient_Color"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Ambient_Value"
+					{
+					name "Ambient_Value"
+					value 0 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Transparency_Max"
+					{
+					name "Transparency"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Transparency_Min"
+					{
+					name "Transparency_Edge"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Transparency_Falloff"
+					{
+					name "Transparency_Falloff"
+					value 0.6 0 100
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Translucence_Color"
+					{
+					name "Translucence_Color"
+					value 0 0 0
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Translucence_Value"
+					{
+					name "Translucence_Value"
+					value 0 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Reflection_Color"
+					{
+					name "Reflection_Color"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Reflection_Value"
+					{
+					name "Reflection_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Refraction_Color"
+					{
+					name "Refraction_Color"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Refraction_Value"
+					{
+					name "Refraction_Value"
+					value 1 0 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Bump"
+					{
+					name "Bump"
+					value 1 -10 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Displacement"
+					{
+					name "Displacement"
+					value 1 -10 10
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "AlternateDiffuse"
+					{
+					name "Alternate_Diffuse"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "AlternateSpecular"
+					{
+					name "Alternate_Specular"
+					value 1 1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ReflectionLiteMult"
+					{
+					name "Reflection_Lite_Mult"
+					value 1 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ReflectionKdMult"
+					{
+					name "Reflection_Kd_Mult"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Gradient_Bump"
+					{
+					name "Gradient_Bump"
+					value 1 -1 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ShadowCatchOnly"
+					{
+					name "Shadow_Catch_Only"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "ToonID"
+					{
+					name "ToonID"
+					value 81 0 32768
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				nodeInput "Normals_Forward"
+					{
+					name "Normals_Forward"
+					value 0 0 1
+					parmR NO_PARM
+					parmG NO_PARM
+					parmB NO_PARM
+					node NO_NODE
+					file "" 
+					}
+				}
+			}
+		}
+	locked 0
+	backfaceCull 0
+	visibleInReflections 1
+	visibleInRender 1
+	displacementBounds 0
+	shadingRate 0.2
+	smoothPolys 1
+	}
+doc
+	{
+	addActor flyStrip
+	}
+}
