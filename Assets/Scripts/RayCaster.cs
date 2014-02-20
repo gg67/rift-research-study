@@ -55,6 +55,7 @@ public class RayCaster : MonoBehaviour {
 		} else {
 			investigator.numRevisitsInARow++;
 			investigator.hasRevisted = true;
+			investigator.numRevisits++;
 		}
 		
 		// Count number of visits and number of red balls found

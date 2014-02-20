@@ -5,6 +5,7 @@ public class BirdhouseInvestigator : MonoBehaviour {
 	public int numBallsFound = 0;
 	private int totalBalls = 8;
 	public int numVisits = 0;
+	public int numRevisits = 0;
 	public int numRevisitsInARow = 0;
 	public int numTargetsFoundBeforeRevisit = 0;
 	public bool hasRevisted = false;
@@ -53,17 +54,17 @@ public class BirdhouseInvestigator : MonoBehaviour {
 			previousRotation = hdCam.FullBodyRotation;
 		}
 		
-		print(distanceTravelled);
-		
-		if(numBallsFound == 8 && !completedTask) {
+		if((numBallsFound == 8 || numRevisitsInARow >= 8) && !completedTask) {
 			completedTask = true;
 			float timeTaken = Time.time - startTime;
+			ggLog ("Number of red balls found: " + numBallsFound);
 			ggLog("Total number of visits: " + numVisits);
 			ggLog("Time taken to complete: " + timeTaken.ToString());
 			ggLog("Number of targets before revist: " + numTargetsFoundBeforeRevisit);
-			ggLog("Number of revisits: " + (numVisits - numBallsFound));
+			ggLog("Number of revisits: " + numRevisits);
 			ggLog("Total Distance Travelled: " + distanceTravelled);
 			ggLog("Total Turn Amount: " + turnAmount);
+			Application.LoadLevel("Playground");
 		}
 	}
 	

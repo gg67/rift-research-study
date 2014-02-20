@@ -28,7 +28,11 @@ public class LevelManager : MonoBehaviour {
 		}
 		else if(Input.GetKey(KeyCode.Alpha2))
 		{
-			Application.LoadLevel("Search");
+			Application.LoadLevel("Search1");
+		}
+		else if(Input.GetKey(KeyCode.Alpha3))
+		{
+			Application.LoadLevel("Search2");
 		}
 	
 	}

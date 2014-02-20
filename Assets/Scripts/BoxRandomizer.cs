@@ -10,6 +10,7 @@ public class BoxRandomizer : MonoBehaviour {
 		RandomizeBuiltinArray(boxes);
 		for(int i=0; i<materials.Length; ++i) {
 			boxes[i].renderer.material = materials[i];	
+			boxes[i].renderer.material.mainTextureScale = new Vector2 (0.35f, 0.35f);
 		}
 	
 	}

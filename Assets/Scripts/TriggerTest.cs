@@ -5,6 +5,14 @@ public class TriggerTest : MonoBehaviour {
 	bool holdingObject = false;
 	GameObject heldObject, touchedObject;
 	Color objectColor;
+	Timer timer;
+	bool startedSorting = false;
+
+	void Awake() {
+		GameObject go = GameObject.FindGameObjectWithTag("Timer"); 
+		if(go != null)
+			timer = go.GetComponent<Timer>();
+	}
 
 	void Update() {
 		// Pick up object
@@ -20,6 +28,11 @@ public class TriggerTest : MonoBehaviour {
 	
 	void OnTriggerEnter(Collider col) {
 		if(col.gameObject.tag == "Box" && !touchedObject) {
+			if(!startedSorting) {
+				startedSorting = true;
+				timer.StartTimer();
+			}
+
 			touchedObject = col.gameObject;	
 			if(!holdingObject) {
 				Color c = touchedObject.renderer.material.color;
