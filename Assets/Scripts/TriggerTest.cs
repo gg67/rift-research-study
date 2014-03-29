@@ -69,6 +69,7 @@ public class TriggerTest : MonoBehaviour {
     }
 	
 	void pickUpTouchedObject() {
+		Debug.Log ("Picking up touched object");
 		if(touchedObject != null) {
 				heldObject = touchedObject;
 				heldObject.transform.parent = transform;		

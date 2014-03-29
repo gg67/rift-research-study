@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
 
 public class BirdhouseInvestigator : MonoBehaviour {
 	public int numBallsFound = 0;
@@ -32,9 +33,7 @@ public class BirdhouseInvestigator : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
 		textMesh.text = numBallsFound.ToString() + "/" + totalBalls.ToString();
-	
 	}
 	
 	// Update is called once per frame
@@ -64,7 +63,8 @@ public class BirdhouseInvestigator : MonoBehaviour {
 			ggLog("Number of revisits: " + numRevisits);
 			ggLog("Total Distance Travelled: " + distanceTravelled);
 			ggLog("Total Turn Amount: " + turnAmount);
-			Application.LoadLevel("Playground");
+
+			Application.LoadLevel("Empty");
 		}
 	}
 	
@@ -78,9 +78,7 @@ public class BirdhouseInvestigator : MonoBehaviour {
 	}
 	
 	public static void ggLog(string s) {
-		Debug.Log(	"******************************************\n" +
-					s + "\n" +
-					"******************************************");	
+		System.IO.File.AppendAllText("results_" + Menu.subjectNumber + ".txt", s + Environment.NewLine);
 	}
 		
 	

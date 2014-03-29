@@ -9,6 +9,7 @@ public class OrderChecker : MonoBehaviour {
 	private float startTime;
 	private float journeyLength;
 	public float smooth = 5.0f;
+	private bool completedTrial = false;
 
 	public List<string> sortedBoxes;
 	public List<string> boxes;
@@ -33,11 +34,12 @@ public class OrderChecker : MonoBehaviour {
 		float fracJourney = distCovered / journeyLength;
 		transform.position = Vector3.Lerp(startMarker.position, endMarker.position, fracJourney);
 
-		if(BoxesSorted())
+		if(BoxesSorted() && !completedTrial)
 		{
 			timer.StopTimer();
 			BirdhouseInvestigator.ggLog("Box Sorting Time: " + timer.time);
-			Application.LoadLevel("Playground");
+			completedTrial = true;
+			Application.LoadLevel("Empty");
 		}
 
 		if(fracJourney >= 1)

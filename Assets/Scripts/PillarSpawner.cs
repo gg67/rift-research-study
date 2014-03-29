@@ -18,6 +18,13 @@ public class PillarSpawner : MonoBehaviour {
 								new Vector2(-0.4921699f, -0.8694036f),	new Vector2(0.4220399f, -0.6944501f), 	new Vector2(0.2404169f, -0.2442553f), 	new Vector2 (0.7890362f, -0.1700012f),
 								new Vector2(0.8582896f, 0.4501379f), 	new Vector2(0.4483585f, 0.770358f), 	new Vector2(-0.5106214f, 0.0668392f), 	new Vector2 (0.1424307f, -0.9815171f)
 							 };
+
+	Vector2[] poissonDist3 = {	
+								new Vector2(0.4796943f, 0.4115057f), 	new Vector2(0.3876592f, -0.3510595f), 	new Vector2(0.7738193f, 0.05886591f), 	new Vector2 (0.143041f, 0.1606899f),
+								new Vector2(0.04423762f, 0.8946569f), 	new Vector2(0.8611066f, -0.4035005f), 	new Vector2(-0.1201624f, 0.5031369f), 	new Vector2 (-0.3617505f, 0.8634977f),
+								new Vector2(0.5666944f, 0.8066038f),	new Vector2(-0.7638089f, 0.4933351f), 	new Vector2(-0.7873715f, -0.045398f), 	new Vector2 (-0.2455239f, -0.07759868f),
+								new Vector2(-0.6647503f, -0.5366517f), 	new Vector2(-0.05695038f, -0.476851f), 	new Vector2(-0.3614945f, -0.8487077f), 	new Vector2 (0.188283f, -0.8846807f)
+							};
 	
 	void Awake() {
 		ballRandomizer = GetComponent<BallRandomizer>();
@@ -28,20 +35,17 @@ public class PillarSpawner : MonoBehaviour {
 		Vector2[] poissonDist;	
 		if(trial==1)
 			poissonDist = poissonDist1;
-		else
+		else if(trial==2)
 			poissonDist = poissonDist2;
+		else
+			poissonDist = poissonDist3;
 		
-		for(int i=0; i<numPillars; ++i){
+		for(int i=0; i<numPillars; ++i) {
 			float x = poissonDist[i].x *4;	
 			float z = poissonDist[i].y *4;
 			Instantiate(pillarPrefab, new Vector3(x,pillar_y,z), new Quaternion());
 		}
 		
 		ballRandomizer.RandomizeBalls();
-	}
-	
-	// Update is called once per frame
-	void Update () {
-	
 	}
 }
